@@ -1,5 +1,5 @@
 FROM gitlab/gitlab-ce:latest
-MAINTAINER Christian Marquardt
+MAINTAINER Chuck Wilson
 
 # Subgit version
 ENV SUBGIT_VERSION 3.3.0
