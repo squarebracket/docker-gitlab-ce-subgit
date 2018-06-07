@@ -2,7 +2,7 @@
 
 Image: [squarebracket/gitlab-ce-subgit](https://hub.docker.com/r/squarebracket/gitlab-ce-subgit/)
 
-[GitLab](http://gitlab.org)'s Community Edition, with [SubGit](http://www.subgit.com) v3.3.0 installed.
+[GitLab](http://gitlab.org)'s Community Edition, with [SubGit](http://www.subgit.com) v3.3.2 installed.
 
 All of [GitLab's Docker-related documentation](http://doc.gitlab.com/omnibus/docker/) remains valid; the only differences compared to the [official Docker image(s)](https://hub.docker.com/r/gitlab/gitlab-ce/) provided by GitLabHQ are additions overtop of their images. This image contains an installation of SubGit, a tool for migrating and even mirroring subversion and git source code repositories, along with an additional volume for its configuration files.
 
