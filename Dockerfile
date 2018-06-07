@@ -2,7 +2,7 @@ FROM gitlab/gitlab-ce:10.7.3-ce.0
 MAINTAINER Chuck Wilson
 
 # Subgit version
-ENV SUBGIT_VERSION 3.3.0
+ENV SUBGIT_VERSION 3.3.2
 
 # Install Java
 RUN apt-get update && \
