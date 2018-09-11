@@ -1,4 +1,4 @@
-FROM gitlab/gitlab-ce:10.8.5-ce.0
+FROM gitlab/gitlab-ce:11.2.3-ce.0
 MAINTAINER Chuck Wilson
 
 # Subgit version
